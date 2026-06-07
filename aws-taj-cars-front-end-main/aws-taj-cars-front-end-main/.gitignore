@@ -1,0 +1,7 @@
+node_modules
+.qodo
+.env
+*.env
+pnpm-lock.yaml
+*.pnpm-lock.yaml
+.env.*
